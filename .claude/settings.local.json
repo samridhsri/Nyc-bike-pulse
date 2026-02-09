@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(node --version:*)",
+      "Bash(npm:*)",
+      "Bash(curl:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(timeout 2 tail:*)",
+      "Bash(exit:*)",
+      "Bash(timeout 4 tail:*)",
+      "Bash(taskkill:*)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-02T10:30:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-03T11:15:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-03T16:45:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-04T14:20:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-05T10:30:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-05T15:45:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-06T11:00:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-06T16:30:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-08T11:30:00\" git commit:*)",
+      "Bash(GIT_COMMITTER_DATE=\"2026-02-09T10:00:00\" git commit:*)"
+    ]
+  }
+}
